@@ -1,0 +1,6 @@
+name: Nucleus
+author: joeleoli
+version: 1.0
+main: me.joeleoli.nucleus.Nucleus
+load: STARTUP
+depend: [ProtocolLib]

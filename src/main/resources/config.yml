@@ -1,0 +1,17 @@
+server:
+  id: "other-1"
+  type: "OTHER"
+  motd: "&6&lLotusNetwork &6Network\n&eFollow our twitter &d@Lotusxd"
+redis:
+  host: "127.0.0.1"
+  port: 6379
+  password: ""
+mongo:
+  host: "127.0.0.1"
+  port: 27017
+  database: "nucleus"
+  authentication:
+    enabled: false
+    username: "admin"
+    password: "dev"
+    database: "admin"
